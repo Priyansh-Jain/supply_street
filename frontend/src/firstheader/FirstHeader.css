@@ -1,0 +1,41 @@
+.first_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.image_header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.remote_image{
+    width: 82px;
+    height: 40px;
+    max-height: none;
+    max-width: none;
+    object-fit: contain;
+}
+
+.phone_image{
+    margin-right: 10px;
+    height: 17px;
+}
+
+.phone_no{
+    align-items: center;
+    text-decoration: none;
+    vertical-align: middle;
+    color: white;
+}
+
+.phone_header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,68 @@
+.address_input{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 101px;
+}
+
+.h1_information{
+    padding-top: 35px;
+    padding-bottom: 17px;
+    font-size: 37px;
+    font-family: AirbnbCerealBold, sans-serif;
+}
+
+
+.input_block {
+    margin-top: 50px;
+    display: flex;
+    padding: 7px;
+    border-radius: 50px;
+    align-items: center;
+    background-color: white;
+    max-width: 407px;
+    box-shadow: rgb(0, 0, 0) 1px 1px 3px 0px;
+}
+
+input[type="text"] {
+    height: 23px;
+    border: none;
+    padding: 8px 12px;
+    min-width: 3px;
+}
+
+.input_box {
+    margin-left: 8px;
+    align-items: center;
+    min-width: 3px;
+    display: flex;
+}
+
+
+.button {
+    background-color: rgb(1, 122, 254);
+    padding: 12px 13px;
+    border-radius: 50px;
+    display: flex;
+    margin-left: 24px;
+}
+
+input[type="submit"] {
+    border: none;
+    color: white;
+    background-color: rgb(1, 122, 254);
+    font-size: medium;
+}
+
+h4 {
+    font-size: 17px;
+    font-family: AirbnbCerealBold, sans-serif;
+}
+
+.information {
+    color: white;
+}
+
+.location_image{
+    height: 28px;
+    object-fit: contain;
+}
